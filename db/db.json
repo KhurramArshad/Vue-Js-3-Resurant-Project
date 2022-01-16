@@ -1,0 +1,78 @@
+{
+  "user": [
+    {
+      "name": "Khurram",
+      "email": "khurram345@gmail.com",
+      "password": "khurram@@##123",
+      "id": 1
+    },
+    {
+      "name": "Abeeha",
+      "email": "Abe@gmail.com",
+      "password": "Abeeha@@##123",
+      "id": 2
+    },
+    {
+      "name": "Adeel",
+      "email": "ad@mail.com",
+      "password": "123455",
+      "id": 3
+    },
+    {
+      "name": "Hanzilah",
+      "email": "hani@gmail.com",
+      "password": "1234@@12",
+      "id": 4
+    },
+    {
+      "name": "Arshad",
+      "email": "ar@mail.com",
+      "password": "123432",
+      "id": 5
+    },
+    {
+      "name": "Ishmal",
+      "email": "ish@test.com",
+      "password": "ish123",
+      "id": 6
+    },
+    {
+      "name": "Raja",
+      "email": "rh@mail.com",
+      "password": "raja123456",
+      "id": 7
+    },
+    {
+      "name": "khan",
+      "email": "khan@hotmail.com",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "name": "Asra",
+      "email": "Jaan@mail.com",
+      "password": "123",
+      "id": 9
+    }
+  ],
+  "resturant": [
+    {
+      "name": "KFC",
+      "address": "gulberg",
+      "contact": "111555222",
+      "id": 1
+    },
+    {
+      "name": "King Burger",
+      "address": "Saman Abad, Lahore",
+      "contact": "222-222-222",
+      "id": 2
+    },
+    {
+      "name": "Hungry House",
+      "address": "Shakir road Lahore",
+      "contact": "03008123120",
+      "id": 3
+    }
+  ]
+}
